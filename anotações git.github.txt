@@ -1,0 +1,17 @@
+#### windows                                         linux 
+
+cd- navegar pela pasta                                    cd-         "" 
+
+dir- lista                                                              ls-           ""
+
+mkdir- cria pasta                                              mkdir-    ""
+
+del/rrmdir deletar pasta                                 rm -rf -   ""
+
+cls - limpar                                                         clear-     ""
+
+echo imprimi na tela 
+
+cd .. - sair                                                             cd ..-    ""
+
+ls -a mostra arquivos ocultos
